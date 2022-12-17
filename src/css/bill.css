@@ -1,0 +1,40 @@
+.principalbill{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    height: 40vh;}
+
+#bill{
+    border: 2px dotted black;
+    border-radius: 12%;
+    width: 72%;
+    
+    margin-top: 48%;
+    padding: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+    text-align: center;
+}
+#bill2{
+    border: 2px dotted black;
+    border-radius: 12%;
+    width: 100%;
+    
+    margin-top: 1%;
+    padding: 1%;
+    text-align: center;
+}
+
+.principal {
+    align-items: center;
+    display: flex;
+    height: 100vh;
+  }
+  
+  .secundario {
+    margin: 0 auto;
+  }
+  
+  #hrBorder{
+      border-top: 3px dotted midnightblue;
+  }
